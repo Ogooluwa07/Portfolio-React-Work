@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section id="hero" className="hero">
       <div className="hero-content">
-        <h1>Hello, I'm Ojo Ogooluwa </h1>
+        <h1>Hello, I'm Anderson </h1>
         <p>Welcome to my portfolio website!</p>
         <img src="/SUITT.png" alt="Profile" className="profile-img" />
       </div>

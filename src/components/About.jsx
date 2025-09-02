@@ -3,7 +3,7 @@ export default function About() {
     <section id="about" className="about section">
       <div className="container">
         <h2 className="section-title">About Me</h2>
-        <p className="section-sub">A short intro about who I am and what I do.</p>
+        <p className="section-sub">A short introduction about who I am and what I do.</p>
 
         <div className="grid">
           <div className="about-card">
@@ -16,13 +16,13 @@ export default function About() {
             <div className="stats">
               <div className="stat"><div className="num">3+</div>Years Experience</div>
               <div className="stat"><div className="num">24</div>Projects</div>
-              <div className="stat"><div className="num">8</div>Happy Clients</div>
+              <div className="stat"><div className="num">10</div>Happy Clients</div>
             </div>
           </div>
 
           <div className="about-card">
             <h3>Skills</h3>
-            <p>HTML, CSS (Sass/Tailwind), JavaScript, React, Vite, Git, Figma</p>
+            <p>HTML, CSS, JavaScript, React, Vite, Git, Figma</p>
           </div>
         </div>
       </div>
